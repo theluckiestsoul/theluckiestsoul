@@ -10,7 +10,7 @@
 
 <br />
 
-I'm [Kiran Mohanty](https://kiranmohanty.com/), a Site Reliability Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
+I'm [Kiran Mohanty](https://kiranmohanty.com/), a Distributed System Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="380" height="250" />
   

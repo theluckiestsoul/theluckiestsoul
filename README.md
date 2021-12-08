@@ -39,7 +39,7 @@ I'm [Kiran Mohanty](https://kiranmohanty.com/), a Distributed System Engineer ðŸ
 
 
 ![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theluckiestsoul&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
-![Kiran's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theluckiestsoul&langs_count=20&layout=compact)
+![Kiran's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theluckiestsoul&hide=javascript,html,C%23,ASP&&langs_count=10)
 
 <!---
 <img src="https://github-readme-streak-stats.herokuapp.com?user=theluckiestsoul&theme=default&layout=compact" width="850">

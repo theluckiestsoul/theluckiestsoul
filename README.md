@@ -19,7 +19,6 @@ I'm [Kiran Mohanty](https://kiranmohanty.com/), a Distributed System Engineer �
 - 🔭 I’m currently working as a Site Reliability Engineer.
 - 🌱 My interests are in Systems, Kubernetes, Infrastructure and Cloud.
 - 💬 Ask me about anything, I'm happy to help!
-- 📝 Read my blogs: Blogs by [Kiran Mohanty](https://mybookmarks.site)
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:**  

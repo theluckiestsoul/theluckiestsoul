@@ -10,16 +10,15 @@
 
 <br />
 
-I'm [Kiran Mohanty](https://kiranmohanty.com/), a Distributed System Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
+I'm [Kiran Mohanty], a Distributed System Engineer 🚀  from India. Besides programming, I enjoy photography and swimming.
 
   <img align="right" alt="GIF" src="https://github.com/theluckiestsoul/theluckiestsoul/blob/master/code.gif?raw=true" width="380" height="250" />
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a Site Reliability Engineer.
+- 🔭 I’m currently working as a Distributed System Engineer.
 - 🌱 My interests are in Systems, Kubernetes, Infrastructure and Cloud.
 - 💬 Ask me about anything, I'm happy to help!
-- 😄 Pronouns: He/Him
 
 **Languages and Tools:**  
 
